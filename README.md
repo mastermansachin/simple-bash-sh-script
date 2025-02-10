@@ -32,4 +32,3 @@ my_directory/
 │   └── file3.txt
 └── .env
 
-
