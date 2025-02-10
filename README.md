@@ -24,6 +24,7 @@ chmod  +x  directoryTree.sh
 ```
 ### example output
 
+```
 my_directory/
 ├── subdir1/
 │   ├── file1.txt
